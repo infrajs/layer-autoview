@@ -1,7 +1,5 @@
 {
 	"name": "infrajs/layer-autoview",
-	"license": "GPL3",
-	"autoload": {
-		"psr-4": { "infrajs\\layer\\autoview\\": "/" }
-	}
+	"homepage":"https://github.com/infrajs/layer-autoview",
+	"license": "GPL3"
 }
